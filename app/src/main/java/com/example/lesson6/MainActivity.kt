@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
             if (clickCounter==1) {
                 messageTextView.text = "Мне жаль.Тогда посмотрим урок еще раз?"}
             else if (clickCounter ==2){
-                messageTextView.text = "Тогда увидимся!"
+                messageTextView.text = "удачи тебе!"
 
             }
         }
